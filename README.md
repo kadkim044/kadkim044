@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**kadkim044/kadkim044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Hakim**, a university student passionate about programming and technology.
 
-Here are some ideas to get you started:
+I enjoy building projects, solving coding challenges, and learning new things every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests are **Python**, **Java**, and **Web Development**. I'm constantly exploring new tools, frameworks, and technologies to improve my skills and become a better developer.
+
+Most of my repositories are learning projects, experiments, and coding exercises that help me grow as a programmer.
+
+If you're interested in software development, feel free to explore my work and connect with me!
+
+### Fun Facts:
+
+* 🎓 University student
+* 💻 Passionate about Python, Java, and Web Development
+* 🚀 Always learning and building new projects
+* 📚 Enjoy solving programming challenges
+* 🌍 Curious about new technologies and software engineering
